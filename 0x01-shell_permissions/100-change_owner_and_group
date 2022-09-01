@@ -1,2 +1,2 @@
 #!/bin/bash
-vincent staff towel.blinkenlights.nl
+chown -R betty:vincent ./
