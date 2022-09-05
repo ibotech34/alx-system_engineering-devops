@@ -1,1 +1,1 @@
-adding command inside the folder
+adding command inside the folder is nice 
